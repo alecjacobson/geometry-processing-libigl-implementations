@@ -1,9 +1,33 @@
-# `.h` suggestions for libigl-style implementations for Geometry Processing final projects
+# Geometry Processing – libigl-style implementation final project
 
-These are _suggestions_ and representative of how to structure your
-implementations. You _may_ modify them, but keep within the general libigl-style
-guidelines of simple matrix types as inputs and outputs.
+This final project is to implement a chosen paper in the style of a
+[libigl](https://libigl.github.io/). Your core functionality should be
+encapsulated in a small number of `.h`/`.cpp` pairs. To present your
+implementation you will prepare an demo and description in the style of the
+[libigl tutorial](ihttps://libigl.github.io/tutorial/). This has two parts: a
+`main.cpp` interactive visualization or demo of the method and a markdown
+text+images entry `entry.md`+jpg files. Finally, create a 1min video demoing and
+describing your work. This is open ended and intended for you to show your peers
+what you've done. We will watch all videos in class together on the last day.
 
-Remember, you must also prepare a libigl tutorial style `main.cpp` (typically
-a demo with an interactive visualization of the results) and a markdown tutorial
-text+images.
+Here's a checklist for submission.
+
+- `.h/.cpp` file pairs for core implementation
+- `main.cpp` for tutorial demo
+- `entry.md`+.jpg images for tutorial entry
+- YouTube url to public/unlisted 1min video 
+
+## `.h` suggestions 
+
+Each folder in this repo contains `.h` header files that are _suggestions_ and
+representative of how to structure your implementations. You _may_ modify them,
+but keep within the general libigl-style guidelines of simple matrix types as
+inputs and outputs.
+
+## Whitelist/blacklist
+
+You must implement the core functionality of the paper yourself; you will be
+marked based on code you wrote. With this in mind, your welcome to use any
+functions in Eigen and libigl that help you achieve this. Document and disclaim
+any code you submit that you did not write yourself. As with any assignment,
+know and follow the university's academic integrity policies.
