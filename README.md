@@ -31,3 +31,9 @@ marked based on code you wrote. With this in mind, your welcome to use any
 functions in Eigen and libigl that help you achieve this. Document and disclaim
 any code you submit that you did not write yourself. As with any assignment,
 know and follow the university's academic integrity policies.
+
+## Language and External Libraries
+
+You are encouraged (but not required) to use C++. You are also encouraged to use
+Eigen and libigl's built-in solvers, though for some papers it may make sense to
+link to external solvers (e.g., mosek, tensorflow, etc.).
