@@ -22,7 +22,8 @@ Here's a checklist for submission.
 Each folder in this repo contains `.h` header files that are _suggestions_ and
 representative of how to structure your implementations. You _may_ modify them,
 but keep within the general libigl-style guidelines of simple matrix types as
-inputs and outputs.
+inputs and outputs. You are welcome and encouraged to create additional
+subroutines in additional .h/.cpp pairs.
 
 ## Whitelist/blacklist
 

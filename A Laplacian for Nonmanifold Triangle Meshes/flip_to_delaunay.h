@@ -16,6 +16,6 @@ void flip_to_delaunay(
   const Eigen::MatrixXi & Fin,
   const Eigen::MatrixXi & Gin,
   const Eigen::MatrixXd & lin,
-  Eigen::MatrixXi Fout,
-  Eigen::MatrixXi Gout,
-  Eigen::MatrixXd lout);
+  Eigen::MatrixXi & Fout,
+  Eigen::MatrixXi & Gout,
+  Eigen::MatrixXd & lout);
