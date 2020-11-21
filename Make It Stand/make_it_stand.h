@@ -2,6 +2,9 @@
 // meshes that represent the deformed mesh and interior 
 // void boundary mesh
 //
+// for an example of global-local solving:
+//  see the deformation assignment https://github.com/alecjacobson/geometry-processing-deformation
+//
 // Inputs:
 //   V   #V by 3 list of vertex positions
 //   F   #F by 3 list of triangle indices into the rows of V
