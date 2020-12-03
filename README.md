@@ -15,7 +15,7 @@ Here's a checklist for submission.
 - `.h/.cpp` file pairs for core implementation
 - `main.cpp` for tutorial demo
 - `entry.md`+.jpg images for tutorial entry
-- YouTube url to public/unlisted 1min video 
+- YouTube url to public/unlisted 1min video (include your name and paper title on first frame of video)
 
 ## `.h` suggestions 
 
